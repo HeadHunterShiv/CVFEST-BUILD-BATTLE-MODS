@@ -1,4 +1,4 @@
-# BUILD-BATTLE-MODS
+# CVFEST-MODS
 
 Download the zip-file, extract the mods using softwares like winRAR or 7Zip.
 Open T-Launcher, login firstly then install fabric 1.18.1.
